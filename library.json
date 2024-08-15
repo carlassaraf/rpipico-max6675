@@ -1,0 +1,23 @@
+{
+    "name": "RPi Pico MPU6050",
+    "version": "1.0.0",
+    "description": "Biblioteca para usar el MAX6675 con la Raspberry Pi Pico y su SDK en C.",
+    "keywords": "rp2040, Raspberry Pi Pico, baremetal, SPI",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/carlassaraf/rpipico-max6675.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Fabrizio Carlassara",
+        "email": "fabrizio.carlassara@gmail.com",
+        "url": ""
+      }
+    ],
+    "license": "MIT",
+    "homepage": "",
+    "frameworks": ["baremetal"],
+    "platforms": ["WizIO-pico"]
+  }
