@@ -1,4 +1,4 @@
-#include "MAX6675.h"
+#include "max6675.h"
 
 // Configuracion de MAX6675
 max6675_config_t max6675_config = {0};
